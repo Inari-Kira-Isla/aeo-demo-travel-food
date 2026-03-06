@@ -1,0 +1,9 @@
+# Security Policy for 澳門旅遊美食指南
+# https://aeo-demo-travel-food.vercel.app
+# RFC 9116 compliant
+
+Contact: https://cloudpipe-landing.vercel.app
+Expires: 2027-03-06T00:00:00.000Z
+Preferred-Languages: zh-Hant, en
+Canonical: https://aeo-demo-travel-food.vercel.app/.well-known/security.txt
+Policy: https://cloudpipe-landing.vercel.app
