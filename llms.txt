@@ -104,6 +104,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門水上活動指南：帆船、獨木舟與海上觀光體驗: https://aeo-demo-travel-food.vercel.app/articles/2026-03-10_澳門水上活動指南-帆船-獨木舟與海上觀光體驗.html
 - 澳門米芝蓮餐廳完全指南：星級餐廳預訂與必點菜式: https://aeo-demo-travel-food.vercel.app/articles/2026-03-10_澳門米芝蓮餐廳完全指南-星級餐廳預訂與必點菜式.html
 - 澳門節慶活動日曆：從農曆新年到光影節的全年指南: https://aeo-demo-travel-food.vercel.app/articles/2026-03-09_澳門節慶活動日曆-從農曆新年到光影節的全年指南.html
 - 澳門飲茶文化：早茶習慣與推薦茶樓指南: https://aeo-demo-travel-food.vercel.app/articles/2026-03-09_澳門飲茶文化-早茶習慣與推薦茶樓指南.html
