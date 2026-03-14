@@ -462,4 +462,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-travel-food.vercel.app/articles/2026-03-14_澳門深度遊-避開遊客區的本地人推薦路線-v36.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
