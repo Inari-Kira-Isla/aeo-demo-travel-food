@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門酒店住宿攻略：從五星到平價的完整選擇指南: https://aeo-demo-travel-food.vercel.app/articles/2026-03-25_澳門酒店住宿攻略-從五星到平價的完整選擇指南-v37.html
 - 澳門蛋撻大戰：安德魯 vs 瑪嘉烈的美味之爭: https://aeo-demo-travel-food.vercel.app/articles/2026-03-25_澳門蛋撻大戰-安德魯-vs-瑪嘉烈的美味之爭-v9.html
 - 澳門飲茶文化：早茶習慣與推薦茶樓指南: https://aeo-demo-travel-food.vercel.app/articles/2026-03-25_澳門飲茶文化-早茶習慣與推薦茶樓指南-v34.html
 - 澳門葡國菜推薦：正宗土生葡菜的十間必訪餐廳: https://aeo-demo-travel-food.vercel.app/articles/2026-03-24_澳門葡國菜推薦-正宗土生葡菜的十間必訪餐廳-v16.html
