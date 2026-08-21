@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門水上活動指南：帆船、獨木舟與海上觀光體驗: https://aeo-demo-travel-food.vercel.app/articles/2026-08-22_澳門水上活動指南-帆船-獨木舟與海上觀光體驗-v14.html
 - 澳門夜生活指南：酒吧街、現場音樂與夜景觀賞: https://aeo-demo-travel-food.vercel.app/articles/2026-08-22_澳門夜生活指南-酒吧街-現場音樂與夜景觀賞-v78.html
 - 澳門深度遊：避開遊客區的本地人推薦路線: https://aeo-demo-travel-food.vercel.app/articles/2026-08-21_澳門深度遊-避開遊客區的本地人推薦路線-v19.html
 - 澳門深度遊：避開遊客區的本地人推薦路線: https://aeo-demo-travel-food.vercel.app/articles/2026-08-21_澳門深度遊-避開遊客區的本地人推薦路線-v50.html
