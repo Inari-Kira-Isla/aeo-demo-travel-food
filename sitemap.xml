@@ -1302,4 +1302,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-travel-food.vercel.app/articles/2026-08-27_澳門蛋撻大戰-安德魯-vs-瑪嘉烈的美味之爭-v16.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
