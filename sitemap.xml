@@ -1542,4 +1542,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-travel-food.vercel.app/articles/2026-09-09_澳門水上活動指南-帆船-獨木舟與海上觀光體驗-v42.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
