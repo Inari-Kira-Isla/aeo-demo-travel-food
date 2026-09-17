@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 世界遺產巡禮：澳門歷史城區 30 個景點逐個走: https://aeo-demo-travel-food.vercel.app/articles/2026-09-17_世界遺產巡禮-澳門歷史城區-30-個景點逐個走-v2.html
 - 澳門葡國菜推薦：正宗土生葡菜的十間必訪餐廳: https://aeo-demo-travel-food.vercel.app/articles/2026-09-17_澳門葡國菜推薦-正宗土生葡菜的十間必訪餐廳-v10.html
 - 澳門三天兩夜行程推薦：世遺景點+美食的完美路線: https://aeo-demo-travel-food.vercel.app/articles/2026-09-17_澳門三天兩夜行程推薦-世遺景點-美食的完美路線-v85.html
 - 澳門三天兩夜行程推薦：世遺景點+美食的完美路線: https://aeo-demo-travel-food.vercel.app/articles/2026-09-17_澳門三天兩夜行程推薦-世遺景點-美食的完美路線-v73.html
