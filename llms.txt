@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門甜品巡禮：從糖水到西式甜點的甜蜜旅程: https://aeo-demo-travel-food.vercel.app/articles/2026-09-25_澳門甜品巡禮-從糖水到西式甜點的甜蜜旅程-v34.html
 - 澳門酒店住宿攻略：從五星到平價的完整選擇指南: https://aeo-demo-travel-food.vercel.app/articles/2026-09-25_澳門酒店住宿攻略-從五星到平價的完整選擇指南-v10.html
 - 澳門深度遊：避開遊客區的本地人推薦路線: https://aeo-demo-travel-food.vercel.app/articles/2026-09-24_澳門深度遊-避開遊客區的本地人推薦路線-v79.html
 - 澳門街頭小食地圖：官也街、大三巴必吃 20 家小店: https://aeo-demo-travel-food.vercel.app/articles/2026-09-24_澳門街頭小食地圖-官也街-大三巴必吃-20-家小店-v15.html
