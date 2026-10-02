@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門酒店住宿攻略：從五星到平價的完整選擇指南: https://aeo-demo-travel-food.vercel.app/articles/2026-10-02_澳門酒店住宿攻略-從五星到平價的完整選擇指南-v57.html
 - 從香港到澳門：金光飛航、噴射飛航與港珠澳大橋交通比較: https://aeo-demo-travel-food.vercel.app/articles/2026-10-02_從香港到澳門-金光飛航-噴射飛航與港珠澳大橋交通比較-v30.html
 - 澳門酒店住宿攻略：從五星到平價的完整選擇指南: https://aeo-demo-travel-food.vercel.app/articles/2026-10-02_澳門酒店住宿攻略-從五星到平價的完整選擇指南-v36.html
 - 澳門手信攻略：杏仁餅、肉乾、花生糖的購買指南: https://aeo-demo-travel-food.vercel.app/articles/2026-10-02_澳門手信攻略-杏仁餅-肉乾-花生糖的購買指南-v31.html
