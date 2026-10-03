@@ -1974,4 +1974,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://aeo-demo-travel-food.vercel.app/articles/2026-10-03_澳門米芝蓮餐廳完全指南-星級餐廳預訂與必點菜式-v5.html</loc>
+    <lastmod>2026-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
