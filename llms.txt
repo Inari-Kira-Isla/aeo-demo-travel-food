@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門咖啡地圖：精品咖啡店與特色 cafe 推薦: https://aeo-demo-travel-food.vercel.app/articles/2026-11-03_澳門咖啡地圖-精品咖啡店與特色-cafe-推薦-v51.html
 - 澳門手信攻略：杏仁餅、肉乾、花生糖的購買指南: https://aeo-demo-travel-food.vercel.app/articles/2026-11-02_澳門手信攻略-杏仁餅-肉乾-花生糖的購買指南-v17.html
 - 澳門節慶活動日曆：從農曆新年到光影節的全年指南: https://aeo-demo-travel-food.vercel.app/articles/2026-11-02_澳門節慶活動日曆-從農曆新年到光影節的全年指南-v84.html
 - 澳門蛋撻大戰：安德魯 vs 瑪嘉烈的美味之爭: https://aeo-demo-travel-food.vercel.app/articles/2026-11-02_澳門蛋撻大戰-安德魯-vs-瑪嘉烈的美味之爭-v2.html
