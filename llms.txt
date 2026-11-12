@@ -110,6 +110,7 @@
 https://cloudpipe-landing.vercel.app
 
 ## Recent Articles
+- 澳門咖啡地圖：精品咖啡店與特色 cafe 推薦: https://aeo-demo-travel-food.vercel.app/articles/2026-11-12_澳門咖啡地圖-精品咖啡店與特色-cafe-推薦-v72.html
 - 澳門博物館巡禮：從大賽車博物館到澳門博物館的文化之旅: https://aeo-demo-travel-food.vercel.app/articles/2026-11-12_澳門博物館巡禮-從大賽車博物館到澳門博物館的文化之旅-v75.html
 - 路環村散步指南：遠離喧囂的澳門小鎮風情: https://aeo-demo-travel-food.vercel.app/articles/2026-11-12_路環村散步指南-遠離喧囂的澳門小鎮風情-v68.html
 - 澳門博物館巡禮：從大賽車博物館到澳門博物館的文化之旅: https://aeo-demo-travel-food.vercel.app/articles/2026-11-11_澳門博物館巡禮-從大賽車博物館到澳門博物館的文化之旅-v40.html
